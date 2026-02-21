@@ -29,6 +29,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
+    "@img/sharp-wasm32": "^0.34.5",
     "cheerio": "^1.0.0-rc.12",
     "child_process": "^1.0.2",
     "chokidar": "^3.5.3",
@@ -36,7 +37,7 @@
     "moment-timezone": "^0.5.41",
     "mongoose": "^7.1.0",
     "qrcode-terminal": "^0.12.0",
-    "sharp": "^0.32.0",
+    "sharp": "^0.32.6",
     "util": "^0.12.5",
     "whatsapp-web.js": "github:amiruldev20/mywajs#v2"
   }
