@@ -1,0 +1,5 @@
+[providers.node]
+node_version = "18"
+
+[phases.setup]
+nixPkgs = ["nodejs", "ffmpeg", "libwebp", "imagemagick", "git"]
